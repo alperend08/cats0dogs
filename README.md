@@ -115,8 +115,7 @@ Arayüz açıldığında:
 
 ## 👨‍💻 Geliştirici
 
-**Alperen Demirel**
-📚 Elektrik-Elektronik Mühendisliği
+**Alperen D**
 💡 Yapay Zeka • Otomasyon • Enerji Sistemleri
 🔗 [GitHub](https://github.com/alperend08)
 
